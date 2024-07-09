@@ -4,7 +4,7 @@ int main(){
 
     int b,h,ans;
 
-    printf("Enter base :  ");
+    printf("Enter base : ");
     scanf("%d",&b);
 
     printf("Enter height : ");

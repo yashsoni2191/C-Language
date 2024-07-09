@@ -4,16 +4,16 @@ int main(){
 
     int p,r,n,ans;
 
-    printf("Enter Principal amout:  ");
+    printf("Enter Principal amout: ");
     scanf("%d",&p);
 
-    printf("Enter Rate :  ");
+    printf("Enter Rate : ");
     scanf("%d",&r);
 
-    printf("Enter Time :  ");
+    printf("Enter Time : ");
     scanf("%d",&n);
 
     ans=p*r*n/100;
 
-    printf("Answer is :  %d",ans);
+    printf("Answer is : %d",ans);
 }

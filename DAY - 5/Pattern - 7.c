@@ -1,10 +1,3 @@
-// A
-// BA
-// CBA
-// DCBA
-// EDCBA
-
-
 #include<stdio.h>
 
 int main(){
@@ -17,3 +10,9 @@ int main(){
         
     }
 }
+
+// A
+// BA
+// CBA
+// DCBA
+// EDCBA
